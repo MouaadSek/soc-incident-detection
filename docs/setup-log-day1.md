@@ -15,6 +15,12 @@ Date: 15-02-2026
 - Methods tried: New-NetIPAddress, netsh set, netsh add, Remove + Recreate
 - Resolution: Pending - will retry with clean setup
 
+See screenshots below for details on the IP assignment errors:
+
+![IP assignment errors - netsh and Remove+Recreate attempts](../screenshots/SocLabDay1%20-2.png)
+
+![IP assignment errors - New-NetIPAddress attempts](../screenshots/SocLabDay1.png)
+
 ## Folders Created
 - C:\SOC-Lab\ISOs\
 - C:\SOC-Lab\VMs\
